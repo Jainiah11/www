@@ -1,0 +1,14 @@
+---
+title: "Preventable Hospital Stays"
+description: "My EDA project ..." 
+date: June 2024
+about: 
+  template: solana
+  links:  
+    - icon: github 
+      text: Github 
+      href: https://github.com/Jainiah11    
+    - icon: laptop
+      text: "Slides" 
+      href: https://docs.google.com/presentation/d/112rVY7hseG9ShfWKyNmLoL9PTU1cIu1GTmRtl8dHmpI/edit?usp=sharing 
+---

@@ -1,0 +1,9 @@
+---
+title: "Projects" 
+listing: 
+  contents: projects
+---
+Below, You can see projects that I have done over the course of my college career...
+
+```{r}
+```

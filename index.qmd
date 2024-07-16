@@ -1,0 +1,23 @@
+---
+title: "Jainiah Harden" 
+about:
+  template: jolla 
+  image: assets/Headshot.jpeg 
+  links: 
+    - icon: envelope 
+      text: Email 
+      href: hardenja@iu.edu 
+    - icon: github 
+      text: Github 
+      href: https://github.com/Jainiah11  
+      target: _blank  
+    - icon: linkedin 
+      text: Linkedin 
+      href: https://www.linkedin.com/in/jainiah-harden-945b87279/        
+    - icon:  file
+      text: Poster 
+      href: bit.ly/m
+
+---
+
+Hello, Welcome to my website! I am a 3rd year undergraduate at Indiana University Bloomington, majoring in Informatics with a security cognate. 

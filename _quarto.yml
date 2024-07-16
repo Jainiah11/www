@@ -1,0 +1,35 @@
+project:
+  type: website 
+  resources: assests 
+  output-dir: docs
+
+website:
+  title: "Jainiah Harden"
+  navbar: 
+    background: "#990000" 
+    foreground: "#ffffff"
+
+    left:
+      - href: index.qmd
+        text: Home
+      - Projects.qmd 
+    right: 
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/jainiah-harden-945b87279/  
+      - icon: github 
+        href: https://github.com/Jainiah11  
+      - icon: file-pdf 
+        href: assests/test.pdf         
+      
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+      
+    css: styles.css
+    toc: true
+
+
+
