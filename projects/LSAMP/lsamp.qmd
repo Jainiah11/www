@@ -3,12 +3,12 @@ title: "LSAMP"
 description: "During my summer research program, I assist John McMullen with the Jay T. Lennon lab by doing computational work. During the course of my highly engaging research lab, we studied the interactions of each stage that rhizobia goes through to do this task and how it affects new host. My role in the Lennon lab was to assemble not just one but two distinct rhizobia strains and then characterize the genomic changes." 
 date: July 2023 
 about: 
-  template: solana
+  template: broadside
   links: 
     - icon: github 
       text: Github 
       href: https://github.com/Jainiah11  
-    - icon: file-pdf
+    - icon: card-image
       text: "LSAMP 2023 Project" 
-      href: projects/LSAMP/LSAMP_2023_POSTER.pdf
+      href: https://indiana-my.sharepoint.com/:p:/r/personal/hardenja_iu_edu/Documents/LSAMP%202023%20POSTER.pptx?d=w42773cb35429464fb1caa187ae9e5feb&csf=1&web=1&e=jXihrn 
 ---
