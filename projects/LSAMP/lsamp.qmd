@@ -3,7 +3,7 @@ title: "LSAMP"
 description: "During my summer research program, I assist John McMullen with the Jay T. Lennon lab by doing computational work. During the course of my highly engaging research lab, we studied the interactions of each stage that rhizobia goes through to do this task and how it affects new host. My role in the Lennon lab was to assemble not just one but two distinct rhizobia strains and then characterize the genomic changes." 
 date: July 2023 
 about: 
-  template: broadside
+  template: trestles
   links: 
     - icon: github 
       text: Github 
